@@ -1,0 +1,28 @@
+_repo: Darkness-and-Daylight-A-Novel_4721
+creator:
+  author:
+    agent_name: Holmes, Mary Jane
+    alias: Holmes, Mary Jane (Hawes)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '1239'
+    url: http://www.gutenberg.org/2009/agents/1239
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Jane_Holmes
+description: Cover -- Contents.
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Guardian and ward -- Fiction'
+- !lcsh 'Blind -- Fiction'
+- !lcsh 'Mental illness -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PS'
+title: 'Darkness and Daylight: A Novel'
+url: http://www.gutenberg.org/ebooks/4721
